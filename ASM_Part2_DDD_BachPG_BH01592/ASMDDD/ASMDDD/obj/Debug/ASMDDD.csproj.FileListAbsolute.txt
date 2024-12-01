@@ -1,0 +1,45 @@
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\bin\Debug\ASMDDD.exe.config
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\bin\Debug\ASMDDD.exe
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\bin\Debug\ASMDDD.pdb
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Dashboard.resources
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Login.resources
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Products.resources
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.exe
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.pdb
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Customers.resources
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Employees.resources
+C:\Users\ADMIN\source\repos\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Statistics.resources
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\bin\Debug\ASMDDD.exe.config
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\bin\Debug\ASMDDD.exe
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\bin\Debug\ASMDDD.pdb
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Customers.resources
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Products.resources
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Employees.resources
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Login.resources
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Dashboard.resources
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Properties.Resources.resources
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Statistics.resources
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.exe
+C:\Users\Admin\Downloads\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.pdb
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\bin\Debug\ASMDDD.exe.config
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\bin\Debug\ASMDDD.exe
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\bin\Debug\ASMDDD.pdb
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Customers.resources
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Products.resources
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Employees.resources
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Login.resources
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Dashboard.resources
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.Statistics.resources
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.exe
+C:\Users\ADMIN\source\repos\ASMDDD (1)\ASMDDD\ASMDDD\obj\Debug\ASMDDD.pdb
